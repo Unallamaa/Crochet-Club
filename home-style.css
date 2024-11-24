@@ -1,0 +1,114 @@
+body {
+  background-color: rgb(171, 107, 225);
+}
+p {
+  color: white;
+  font-family: sans-serif, helvetica, arial;
+  width: auto;
+  text-align: left;
+  margin: 8px;
+}
+.headbutton {
+  color: white;
+  background-color: rgb(171, 107, 225);
+  border-color: white;
+  border: solid;
+  border-radius: 36px;
+  border-width: 2px;
+  transition: background-color 0.5s;
+  float: right;
+  margin: auto;
+  padding: 8px;
+  font-family: Sans-serif, helvetica, arial;
+  width: fit-content;
+  margin: 8px;
+}
+.headbutton:hover {
+  background-color: rgb(162, 226, 108);
+  cursor: pointer;
+}
+.title {
+  font-family: monospace;
+  font-size: 21px;
+  float: left;
+  margin: auto;
+  padding: 8px;
+  width: fit-content;
+  background: none;
+  border: none;
+  color: white;
+  margin-left: auto;
+}
+.body {
+  width: 75%;
+  background-color: rgb(162, 226, 108);
+  text-align: center;
+  margin: auto;
+  border-radius: 48px;
+  padding-bottom: 100px;
+}
+h1 {
+  color: white;
+  font-family: Monospace, sans-serif, helvetica;
+  font-size: 48px
+}
+.joina {
+  color: white;
+  background-color: rgb(162, 226, 108);
+  border-color: white;
+  border: solid;
+  border-radius: 36px;
+  border-width: 2px;
+  transition: background-color 0.5s;
+  margin: auto;
+  padding: 8px;
+  font-family: Sans-serif, helvetica, arial;
+  width: fit-content;
+  margin: 8px;
+  font-size: 18px;
+}
+.joina:hover {
+  background-color: rgb(171, 107, 225);
+  cursor: pointer;
+}
+h3 {
+  color: white;
+  font-family: sans-serif, helvetica, arial;
+  font-size: 27px;
+  text-align: left;
+  margin: 8px;
+}
+ul {
+  color: white;
+  font-family: sans-serif, helvetica, arial;
+  font-size: 14px;
+  text-align: left;
+  margin: 8px;
+}
+.joinb {
+  color: white;
+  background-color: rgb(162, 226, 108);
+  border-color: white;
+  border: solid;
+  border-radius: 36px;
+  border-width: 2px;
+  transition: background-color 0.5s;
+  margin: auto;
+  padding: 8px;
+  font-family: Sans-serif, helvetica, arial;
+  width: fit-content;
+  margin: 8px;
+  font-size: 18px;
+}
+.joinb:hover {
+  background-color: rgb(171, 107, 225);
+  cursor: pointer;
+}
+hr {
+  color: rgb(171, 107, 225);
+  border-color: rgb(171, 107, 225);
+  border-width: 1px;
+  border: solid;
+  border-radius: 4px;
+  width: 880px;
+}
